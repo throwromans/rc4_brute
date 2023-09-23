@@ -1,2 +1,4 @@
 # rc4_brute
- bruteforce md5 key for rc4 encrypted string
+ 
+bruteforce rc4 encrypted string
+using brutelib (http://mslc.ctf.su/wp/hack-lu-2012-ctf-challenge-3-450/)
